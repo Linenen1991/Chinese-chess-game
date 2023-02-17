@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gi", "Gi\Gi\Gi.csproj", "{594EAC2C-57A7-4CAA-8F5B-012B9265131A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GiContent", "Gi\GiContent\GiContent.contentproj", "{3E8BC729-F6DB-4C6B-B4B5-59FDAA54E7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594EAC2C-57A7-4CAA-8F5B-012B9265131A}.Debug|x86.ActiveCfg = Debug|x86
+		{594EAC2C-57A7-4CAA-8F5B-012B9265131A}.Debug|x86.Build.0 = Debug|x86
+		{594EAC2C-57A7-4CAA-8F5B-012B9265131A}.Release|x86.ActiveCfg = Release|x86
+		{594EAC2C-57A7-4CAA-8F5B-012B9265131A}.Release|x86.Build.0 = Release|x86
+		{3E8BC729-F6DB-4C6B-B4B5-59FDAA54E7CD}.Debug|x86.ActiveCfg = Debug|x86
+		{3E8BC729-F6DB-4C6B-B4B5-59FDAA54E7CD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

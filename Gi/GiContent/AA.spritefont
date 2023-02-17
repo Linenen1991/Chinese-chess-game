@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+    <FontName>新細明體</FontName>
+    <Size>25</Size>
+    <Spacing>0</Spacing>
+    <UseKerning>true</UseKerning>
+    <Style>Regular</Style>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#25138;</Start>
+        <End>&#25139;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#36938;</Start>
+        <End>&#36939;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#38283;</Start>
+        <End>&#38284;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#38626;</Start>
+        <End>&#38627;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
